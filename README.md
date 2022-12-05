@@ -15,7 +15,7 @@
 |   `-- Classification_data
 |       |-- movie-director.csv
 |       |-- movie-voice-actors.csv
-|       `-- movie-success-level-classification.csv
+|       `-- movie-success-level.csv
 `-- Testing_data:
 |   |-- Prediction_data
 |   |   |-- movie-director.csv
@@ -24,7 +24,6 @@
 |   `-- Classification_data
 |       |-- movie-director.csv
 |       |-- movie-voice-actors.csv
-|       `-- movie-success-level-classification.csv
+|       `-- movie-success-level.csv
 |-- README.md
 ```
-##### currently a work in progress
